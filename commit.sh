@@ -3,3 +3,4 @@ commit_message="$current_date"
 
 git add .
 git commit -m "$commit_message"
+// ./commit.sh
