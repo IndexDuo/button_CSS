@@ -18,11 +18,12 @@ body {
   border-radius: 20%;
   box-shadow: 18px 18px 30px rgba(0, 0, 0, 0.2),
     -18px -18px 30px rgba(255, 255, 255, 1);
-    transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
 
 img {
   width: 60px;
+  padding-top: 2px;
 }
 
 .img:hover {
@@ -34,5 +35,3 @@ img {
 .img:hover img {
   transform: 58px;
 }
-```
-```
