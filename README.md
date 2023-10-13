@@ -1,1 +1,1 @@
-# [Button_CSS](http://IndexDuo.github.io/button_CSS)
+# [Button_CSS](http://IndexDuo.me/button_CSS)
